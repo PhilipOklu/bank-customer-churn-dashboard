@@ -2,10 +2,8 @@
 
 This repository contains a Power BI dashboard project analyzing bank customer churn. The report explores customer demographics, complaint data, and behavior patterns to identify churn trends and key risk segments.
 
-bank-customer-churn.PNG
+![Dashboard Preview](bank-customer-churn.PNG)
 
-🔗 **[Download the Power BI report (.pbix)](LINK_TO_PBIX_FILE)**  
-_(Replace the link with your GitHub-hosted or external download link)_
 
 ---
 
@@ -55,5 +53,4 @@ _(Replace the link with your GitHub-hosted or external download link)_
 
 Philip Oklu  
 *Customer Analytics | 2025*
-
 
